@@ -36,13 +36,15 @@
 [![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman)](https://skillicons.dev)
 <!-- [![My Skills](https://skillicons.dev/icons?i=elasticsearch,flutter,go,graphql,jenkins,kubernetes,nestjs,nextjs,nginx,postgres,)](https://skillicons.dev) -->
 
-<h3 align="left">Leetcode:</h3>
+<h3 align="center">Leetcode:</h3>
 
 ![](https://leetcard.jacoblin.cool/ngoctruongbui2003?theme=nord&ext=activity)
 
+</br>
+</br>
+
+<h3 align="center">Grap:</h3>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngoctruongbui2003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ngoctruongbui2003" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ngoctruongbui2003&show_icons=true&locale=en&theme=tokyonight" alt="ngoctruongbui2003" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ngoctruongbui2003&&theme=tokyonight" alt="ngoctruongbui2003" /></p>
