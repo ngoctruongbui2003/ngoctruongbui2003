@@ -29,7 +29,17 @@
 
 <h3 align="left">Languages and Tools:</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=js,java,cs,py,kotlin)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,git,redis,rabbitmq,aws,linux,materialui)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,dotnet,spring,react,redux)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=mysql,mongodb)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vscode,visualstudio,androidstudio,postman)](https://skillicons.dev)
+<!-- [![My Skills](https://skillicons.dev/icons?i=elasticsearch,flutter,go,graphql,jenkins,kubernetes,nestjs,nextjs,nginx,postgres,)](https://skillicons.dev) -->
+
+Technical Skills: Docker, Git, Redis, RabbitMQ, AWS (Learn a little EC2, S3), CI/CD, Linux
+▪ Programming Languages: Javascript, Java, C#, Python
+▪ Framework: NodeJS, Spring Boot, ReactJS, ASP.NET Core
+▪ Databases: MySQL, MongoDB, SQL Server
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ngoctruongbui2003&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="ngoctruongbui2003" /></p>
